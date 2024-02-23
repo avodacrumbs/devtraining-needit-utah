@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Needit">91bc039997e402104adcf97e6253afca</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Needits</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_needit</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_58872_needit.needit_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-23 13:05:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>11bc039997e402104adcf97e6253afce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needits</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_11bc039997e402104adcf97e6253afce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-23 13:05:52</sys_updated_on>
+        <timeline_page/>
+        <title>Needits</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>c588c506db5edd1891232f17d4961972</instance_id>
+        <instance_name>dev138704</instance_name>
+        <name>sys_app_module_11bc039997e402104adcf97e6253afce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Needit">91bc039997e402104adcf97e6253afca</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Needits</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_needit</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_58872_needit.needit_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-23 13:05:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>11bc039997e402104adcf97e6253afce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Needits</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_11bc039997e402104adcf97e6253afce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-23 13:05:52</sys_updated_on><timeline_page/><title>Needits</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1505670160</payload_hash>
+        <record_name>Needits</record_name>
+        <reverted_from/>
+        <source>cefa87d597e402104adcf97e6253af62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-23 13:05:52</sys_created_on>
+        <sys_id>19bc039997e402104adcf97e6253afd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dd6127dc90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-23 13:05:52</sys_updated_on>
+        <type>Module</type>
+        <update_guid>5dbc0399e4e402101770b2913b3405cf</update_guid>
+        <update_guid_history>5dbc0399e4e402101770b2913b3405cf:1505670160</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Needits">c7cc5f5d972802104adcf97e6253af43</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-23 14:16:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>772fb47524094fa48be8e3e7a8208279</sys_id>
+        <sys_metadata>11bc039997e402104adcf97e6253afce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needits</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_11bc039997e402104adcf97e6253afce</sys_update_name>
+        <sys_update_version display_value="sys_app_module_11bc039997e402104adcf97e6253afce">19bc039997e402104adcf97e6253afd0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-23 14:16:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
